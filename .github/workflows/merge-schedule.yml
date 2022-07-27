@@ -1,0 +1,17 @@
+name: Merge Article Schedule
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+  schedule:
+    # 9AM UTC
+    - cron: 0 10 * * *
+
+jobs:
+  merge_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gr2m/merge-schedule-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
