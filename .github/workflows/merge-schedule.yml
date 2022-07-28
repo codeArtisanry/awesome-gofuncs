@@ -5,8 +5,8 @@ on:
       - opened
       - edited
   schedule:
-    # 7AM UTC
-    - cron: '0 7 * * *'
+    # 5AM UTC => 10:30AM IST
+    - cron: '0 5 * * *'
 
 jobs:
   merge_schedule:
