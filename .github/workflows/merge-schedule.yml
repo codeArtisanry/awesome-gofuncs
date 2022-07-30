@@ -6,13 +6,20 @@ on:
       - edited
   schedule:
     # 5AM UTC => 10:30AM IST
-    - cron: '0 5 * * *'
+    - cron: '0 */1 * * *'
 
 jobs:
   merge_schedule:
     runs-on: ubuntu-latest
     steps:
-      - uses: gr2m/merge-schedule-action@v1
+      - uses: gr2m/merge-schedule-action@v2
+        with:
+            # Merge method to use. Possible values are merge, squash or
+            # rebase. Default is merge.
+            merge_method: squash
+            # Label to apply to the pull request if the merge fails. Default is
+            # `automerge-fail`.
+            automerge_fail_label: 'merge-schedule-failed'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
