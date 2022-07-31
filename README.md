@@ -19,3 +19,9 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 
 ##### GO-Cache
 - <a href="https://github.com/patrickmn/go-cache">go-cache </a> is an in-memory key:value store/cache similar to memcached
+
+##### Go Hash Generator
+- <a href="https://github.com/codesnail21/gomd5hash"> Hash generator / Creator in MD5 </a> generates hash based in string provided
+
+##### Go Download File
+- <a href="https://github.com/codesnail21/goDownloadFile"> download file </a> and store it in CWD, by just passing the file name & URL
