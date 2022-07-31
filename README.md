@@ -25,3 +25,13 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 
 ##### Go Download File
 - <a href="https://github.com/codesnail21/goDownloadFile"> download file </a> and store it in CWD, by just passing the file name & URL
+
+##### Go Json Iterator
+- <a href="https://github.com/json-iterator/go"> JSON iterator </a>  high-performance 100% compatible drop-in replacement of "encoding/json"
+
+##### Go OTP
+- <a href="https://github.com/jltorresm/otpgo"> Time-Based One-Time Password </a> (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
+
+##### Go Mapstructure
+- <a href="https://github.com/mitchellh/mapstructure"> Go library for decoding generic map values </a> into native Go structures and vice versa.
+
