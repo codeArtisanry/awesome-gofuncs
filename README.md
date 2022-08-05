@@ -35,3 +35,5 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 ##### Go Mapstructure
 - <a href="https://github.com/mitchellh/mapstructure"> Go library for decoding generic map values </a> into native Go structures and vice versa.
 
+##### Go Regroup(Match Regex)
+- <a href="https://github.com/oriser/regroup">Match regex group </a> into go struct using struct tags and automatic parsing.
