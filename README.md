@@ -37,3 +37,6 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 
 ##### Go Regroup(Match Regex)
 - <a href="https://github.com/oriser/regroup">Match regex group </a> into go struct using struct tags and automatic parsing.
+
+##### Go Keygen
+- <a href="https://github.com/keygen-sh/keygen-go"> Keygen SDK for Go. </a> Integrate license activation, automatic updates and offline licensing for Go binaries.
