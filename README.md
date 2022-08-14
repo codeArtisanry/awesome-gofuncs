@@ -40,3 +40,7 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 
 ##### Go Keygen
 - <a href="https://github.com/keygen-sh/keygen-go"> Keygen SDK for Go. </a> Integrate license activation, automatic updates and offline licensing for Go binaries.
+
+##### Go Pagination
+- <a href="https://github.com/gemcook/pagination-go"> format pagination </a> response on server side.
+
