@@ -50,3 +50,5 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 ##### Go Pagination
 - <a href="https://github.com/gemcook/pagination-go"> format pagination </a> response on server side.
 
+##### Go Mail Checker
+- <a href="https://github.com/gocrazygt/mail-checker"> A Go module that checks a domain's </a> email information.
