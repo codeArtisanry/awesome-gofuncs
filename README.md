@@ -52,3 +52,6 @@ out <a href="https://github.com/codesnail21/gofuncs">awesome</a>.
 
 ##### Go Mail Checker
 - <a href="https://github.com/gocrazygt/mail-checker"> A Go module that checks a domain's </a> email information.
+
+#### Go Lodash-style Go library
+- <a href="https://github.com/samber/lo"> A Lodash-style Go library </a> based on Go 1.18+ Generics (map, filter, contains, find...)
